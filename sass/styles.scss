@@ -1,0 +1,21 @@
+$primaryColor : blue;
+
+
+h1 {
+    color:$primaryColor;
+}
+
+
+nav {  
+    width: 80%; 
+    ul {
+       list-style-type: none;
+    }  
+    li {
+
+       a {
+         font-weight: bold;
+     }  
+    }
+ }
+ 
